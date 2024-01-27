@@ -25,5 +25,6 @@ class datacollection {
         //converting arraylist to array
         Object[] obj = arr.toArray();
         System.out.println(obj[0]);
+        System.out.println("good");
     }
 }
